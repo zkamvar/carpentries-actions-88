@@ -81,15 +81,9 @@
     },
     "cowsay": {
       "Package": "cowsay",
-      "Version": "0.8.2",
+      "Version": "0.8.0",
       "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "crayon",
-        "fortunes",
-        "rmsfact"
-      ],
-      "Hash": "d0a2ee8c742d4cf1d7500bb709b9c8ac"
+      "Repository": "CRAN"
     },
     "crayon": {
       "Package": "crayon",

@@ -81,9 +81,15 @@
     },
     "cowsay": {
       "Package": "cowsay",
-      "Version": "0.8.0",
+      "Version": "0.8.2",
       "Source": "Repository",
-      "Repository": "CRAN"
+      "Repository": "CRAN",
+      "Requirements": [
+        "crayon",
+        "fortunes",
+        "rmsfact"
+      ],
+      "Hash": "d0a2ee8c742d4cf1d7500bb709b9c8ac"
     },
     "crayon": {
       "Package": "crayon",
@@ -364,6 +370,13 @@
         "rlang"
       ],
       "Hash": "6bd4d33b50ff927191ec9acbf52fd056"
+    },
+    "spongebob": {
+      "Package": "spongebob",
+      "Version": "0.4.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "174b48d26ec39d2ce651ec01b66782c5"
     },
     "stringi": {
       "Package": "stringi",

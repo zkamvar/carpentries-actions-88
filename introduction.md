@@ -53,7 +53,7 @@ tospongebob("Ugh, this isn't working")
 ```
 
 ```{.output}
-[1] "ugh, This IsN't wORKiNg"
+[1] "UGH, tHiS iSn't WORkInG"
 ```
 
 This is a lesson created via The Carpentries Workbench. It is written in
